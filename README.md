@@ -34,13 +34,7 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend & Core
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java" />
-</p>
-
-### ⚙️ Backend & Tools
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev" />
 </p>
 
