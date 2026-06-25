@@ -7,7 +7,7 @@
 <a href="https://github.com/Yousuf-Hassan">
   <img src="https://komarev.com/ghpvc/?username=Yousuf-Hassan&color=0e75b6&style=flat-square&label=Profile+Views" />
 </a>
-<img src="https://img.shields.io/github/followers/Yousuf-Hassan?label=Followers&style=flat-square&color=0e75b6" />
+
 
 </div>
 
