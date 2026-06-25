@@ -34,6 +34,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,java,postgresql,node,git,github,vscode" />
 </p>
 
+<h1>Backend</h1>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,postgresql,node,git,github,vscode" />
+</p>
 ---
 
 ## 📊 GitHub Stats
