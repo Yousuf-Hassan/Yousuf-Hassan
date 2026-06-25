@@ -4,11 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Backend+Developer+in+Progress;Node.js+%7C+Express+%7C+PostgreSQL;Linux+%26+Networking+Enthusiast&font=Fira+Code&center=true&width=650&height=50&color=60efff&vCenter=true&size=22">
 
-<a href="https://github.com/Yousuf-Hassan">
-  <img src="https://komarev.com/ghpvc/?username=Yousuf-Hassan&color=0e75b6&style=flat-square&label=Profile+Views" />
-</a>
-
-
 </div>
 
 <br/>
