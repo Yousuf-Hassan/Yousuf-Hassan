@@ -21,20 +21,17 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
+## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,angular" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
 
-### ⚙️ Backend & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,git,github,vscode" />
-</p>
-
-### 📚 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,cpp" />
-</p>
 
 ---
 
