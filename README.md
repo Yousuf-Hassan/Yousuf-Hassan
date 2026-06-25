@@ -1,69 +1,26 @@
-# Hi 👋, I'm Yusuf Hassan
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="35" />
+  Hi, I'm Yusuf Hassan
+</h1>
 
-<h3 align="center">🎓 Computer Science Student | 🚀 Backend Developer in Progress | 🔬 Aspiring Computer Scientist</h3>
+<h3 align="center">🎓 Computer Science Student | 🚀 Backend Developer | 🔬 Aspiring Computer Scientist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Web+%26+App+Developer;Network+Engineer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Node.js+%26+JavaScript+Enthusiast;Database+Architect;Network+Engineer;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yousuf-Hassan&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---
 
 ## 🌱 Currently Learning
 
-- Backend Development (Node.js)
-- JavaScript (ES6+)
-- Data Structures & Algorithms
-- SQL Databases (PostgreSQL)
-- Linux & Networking
-- - Computer Science Fundamentals
-
----
-
-## 🛠️ Tech Stack
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
-
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <table align="center" border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Yousuf-Hassan&show_icons=true&theme=tokyonight" height="200" />
-      </td>
-      <td width="10"></td> <!-- Meel bannaan oo u dhaxaysa labada kaadh -->
-      <td>
-        <img src="https://streak-stats.demolab.com?user=Yousuf-Hassan&theme=tokyonight" height="200" />
-      </td>
-    </tr>
-  </table>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf-Hassan&layout=compact&theme=tokyonight" />
-</p>
-
-
----
-
-## ⚡ Fun Fact
-
-I enjoy understanding how systems work from **hardware → software → network level**, and building things from scratch.
-
----
-
-<p align="center">
-  <b>Thanks for visiting my profile 🚀</b>
-</p>
+```text
+Backend Development    ████████████████████░░░░░   Node.js | Express
+JavaScript (ES6+)      ███████████████████░░░░░░   Async/Await | Closures | Prototypes
+Data Structures        ███████████████░░░░░░░░░░   Trees | Graphs | Dynamic Programming
+SQL Databases          ██████████████████░░░░░░░   PostgreSQL | Query Optimization
+Linux & Networking     ██████████████░░░░░░░░░░░   Bash | TCP/IP | System Administration
+CS Fundamentals        ████████████████░░░░░░░░░   OS | Computer Architecture | Algorithms
