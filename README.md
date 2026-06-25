@@ -38,7 +38,7 @@
 
 ### ⚙️ Backend & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,postgresql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,git,github,vscode" />
 </p>
 
 ### 📚 Languages
