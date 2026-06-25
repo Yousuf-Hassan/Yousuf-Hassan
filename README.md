@@ -29,15 +29,16 @@
 ---
 
 ## 🛠️ Tech Stack
-<h1>Frontend</h1>
-<p align="center">
+### 💻 Frontend & Core
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,vue,angular" />
+</p>
+
+### ⚙️ Backend & Tools
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,postgresql,node,git,github,vscode" />
 </p>
 
-<h1>Backend</h1>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,postgresql,node,git,github,vscode" />
-</p>
 ---
 
 ## 📊 GitHub Stats
