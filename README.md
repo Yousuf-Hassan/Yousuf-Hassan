@@ -1,33 +1,89 @@
-<h1 align="center">Hi 👋, I'm Yusuf Hassan</h1>
-<h3 align="center">Computer Science Student | Backend Developer in Progress 🚀</h3>
+# Hi 👋, I'm Yusuf Hassan
 
-🌱 Currently Learning:
-- Backend Development
-- JavaScript
-- Data Structures & Algorithms
-- SQL Databases
-- Linux and Networking
+<h3 align="center">🎓 Computer Science Student | 🚀 Future Backend Developer | 🔬 Aspiring Computer Scientist</h3>
 
-🎯 Goals:
-- Become a Computer Scientist
-- Build impactful software
-- Learn research and entrepreneurship
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Backend+Developer+in+Progress;Linux+and+Networking+Learner;Future+Computer+Scientist;Always+Learning+New+Things&center=true&width=500&height=50">
+</p>
 
-💻 Tech Stack:
-HTML | CSS | JavaScript | Java | SQL | Linux
+---
 
-📊 GitHub Stats:
+## 🌱 Currently Learning
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Yousuf-Hassan&show_icons=true&theme=tokyonight)
+* Backend Development
+* JavaScript
+* Data Structures and Algorithms
+* SQL Databases
+* Linux and Networking
+* Computer Science Fundamentals
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf-Hassan&layout=compact&theme=tokyonight)
+---
 
-🔥 Streak Stats:
-![Streak](https://streak-stats.demolab.com?user=Yousuf-Hassan&theme=tokyonight)
+## 🎯 Goals
 
-📫 Contact Me:
-- Email: yusuf.jeeh@gmail.com
-- LinkedIn: Your LinkedIn URL
+* Become a Computer Scientist
+* Build impactful software solutions
+* Learn research and innovation
+* Start technology businesses in the future
 
-⚡ Fun Fact:
-I enjoy learning how computers work from hardware to software.
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,linux,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yousuf-Hassan&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf-Hassan&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Yousuf-Hassan&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Projects
+
+* 🔍 Linux Command Search Engine
+* 🌐 Personal Portfolio Website
+* 🔐 Authentication System
+* 💻 Future Backend Projects
+
+---
+
+## 📚 Currently Working On
+
+* Improving backend development skills
+* Building practical projects
+* Strengthening problem-solving abilities
+* Learning advanced computer science concepts
+
+---
+
+## 📫 Contact Me
+
+* 📧 Email: [yusuf.jeeh@gmail.com](mailto:yusuf.jeeh@gmail.com)
+* 💼 LinkedIn: Add your LinkedIn profile here
+* 🐙 GitHub: https://github.com/Yousuf-Hassan
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy learning how computers work from hardware to software and exploring new technologies every day.
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
