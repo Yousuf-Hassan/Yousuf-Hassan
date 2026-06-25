@@ -33,17 +33,17 @@
 
 ### 💻 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,angular" />
 </p>
 
 ### ⚙️ Backend & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,postgresql,git,github,vscode" />
 </p>
 
 ### 📚 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,cpp" />
 </p>
 
 ---
