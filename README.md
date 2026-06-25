@@ -73,7 +73,7 @@
 ## 📫 Contact Me
 
 * 📧 Email: [yusuf.jeeh@gmail.com](mailto:yusuf.jeeh@gmail.com)
-* 💼 LinkedIn: 
+* 💼 LinkedIn: https://www.linkedin.com/in/yousuf-h-osman-4212aa3b0/
 * 🐙 GitHub: https://github.com/Yousuf-Hassan
 * 🐙Instgram:https://www.instagram.com/haji_jeex/
 
