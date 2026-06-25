@@ -59,15 +59,6 @@
 
 ---
 
-## 🚀 Projects
-
-* 🔍 Linux Command Search Engine
-* 🌐 Personal Portfolio Website
-* 🔐 Authentication System
-* 💻 Future Backend Projects
-
----
-
 ## 📚 Currently Working On
 
 * Improving backend development skills
