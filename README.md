@@ -3,17 +3,21 @@
 <h3 align="center">🎓 Computer Science Student | 🚀 Future Backend Developer | 🔬 Aspiring Computer Scientist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Backend+Developer+in+Progress;Linux+and+Networking+Learner;Future+Computer+Scientist;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://demolab.com">
 </p>
 
 ---
 
 ## 🌱 Currently Learning
 
-* Backend Development
 * JavaScript
+* Node.js
+* npm and packages
+* Building simple APIs with Node's http module
+* Express.js
+* Databases (PostgreSQL)
+* Authentication, testing, deployment
 * Data Structures and Algorithms
-* SQL Databases
 * Linux and Networking
 * Computer Science Fundamentals
 
@@ -30,8 +34,14 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,postgresql,linux,git,github,node.js" />
+### 💻 Frontend & Core
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java" />
+</p>
+
+### ⚙️ Backend & Tools
+<p align="left">
+  <img src="https://skillicons.dev" />
 </p>
 
 ---
@@ -42,20 +52,28 @@
   <table align="center" border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Yousuf-Hassan&show_icons=true&theme=tokyonight" height="200" />
+        <img src="https://vercel.app" height="200" />
       </td>
-      <td width="10"></td> <!-- Meel bannaan oo u dhaxaysa labada kaadh -->
+      <td width="10"></td>
       <td>
-        <img src="https://streak-stats.demolab.com?user=Yousuf-Hassan&theme=tokyonight" height="200" />
+        <img src="https://demolab.com" height="200" />
       </td>
     </tr>
   </table>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf-Hassan&layout=compact&theme=tokyonight" />
+  <img src="https://vercel.app" />
 </p>
 
+---
+
+## 🚀 Projects
+
+* 🔍 Linux Command Search Engine
+* 🌐 Personal Portfolio Website
+* 🔐 Authentication System
+* 💻 Future Backend Projects
 
 ---
 
@@ -71,9 +89,9 @@
 ## 📫 Contact Me
 
 * 📧 Email: [yusuf.jeeh@gmail.com](mailto:yusuf.jeeh@gmail.com)
-* 💼 LinkedIn: https://www.linkedin.com/in/yousuf-h-osman-4212aa3b0/
-* 🐙 GitHub: https://github.com/Yousuf-Hassan
-* 🐙Instgram:https://www.instagram.com/haji_jeex/
+* 💼 LinkedIn: https://linkedin.com
+* 🐙 GitHub: https://github.com
+* 🐙 Instagram: https://instagram.com
 
 ---
 
