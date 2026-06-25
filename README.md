@@ -1,42 +1,49 @@
 # Hi 👋, I'm Yusuf Hassan
 
-<h3 align="center">🎓 Computer Science Student | 🚀 Future Backend Developer | 🔬 Aspiring Computer Scientist</h3>
+<h3 align="center">🎓 Computer Science Student | 🚀 Backend Developer in Progress | 🔬 Aspiring Computer Scientist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Backend+Developer+in+Progress;Linux+and+Networking+Learner;Future+Computer+Scientist;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Backend+Developer+in+Progress;Linux+%26+Networking+Learner;Future+Computer+Scientist;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
 ---
 
 ## 🌱 Currently Learning
 
-* Backend Development
-* JavaScript
-* Data Structures and Algorithms
-* SQL Databases
-* Linux and Networking
-* Computer Science Fundamentals
+- Backend Development (Node.js)
+- JavaScript (ES6+)
+- Data Structures & Algorithms
+- SQL Databases (PostgreSQL)
+- Linux & Networking
+- Computer Science Fundamentals
 
 ---
 
 ## 🎯 Goals
 
-* Become a Computer Scientist
-* Build impactful software solutions
-* Learn research and innovation
-* Start technology businesses in the future
+- Become a strong Computer Scientist
+- Build scalable backend systems
+- Master system design & networking
+- Work on real-world impactful projects
+- Start tech-based innovations in the future
 
 ---
 
 ## 🛠️ Tech Stack
-### 💻 Frontend & Core
+
+### 💻 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,vue,angular" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue" />
 </p>
 
 ### ⚙️ Backend & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=express.js,node.js,postgresql,node,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,git,github,vscode" />
+</p>
+
+### 📚 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c" />
 </p>
 
 ---
@@ -44,59 +51,49 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <table align="center" border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Yousuf-Hassan&show_icons=true&theme=tokyonight" height="200" />
-      </td>
-      <td width="10"></td> <!-- Meel bannaan oo u dhaxaysa labada kaadh -->
-      <td>
-        <img src="https://streak-stats.demolab.com?user=Yousuf-Hassan&theme=tokyonight" height="200" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yousuf-Hassan&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yousuf-Hassan&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf-Hassan&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf-Hassan&layout=compact&theme=tokyonight"/>
 </p>
-
 
 ---
 
 ## 🚀 Projects
 
-* 🔍 Linux Command Search Engine
-* 🌐 Personal Portfolio Website
-* 🔐 Authentication System
-* 💻 Future Backend Projects
+- 🔍 Linux Command Search Engine  
+- 🌐 Personal Portfolio Website  
+- 🔐 Authentication System (Login/Register)  
+- 💻 Backend APIs (In progress)
 
 ---
 
 ## 📚 Currently Working On
 
-* Improving backend development skills
-* Building practical projects
-* Strengthening problem-solving abilities
-* Learning advanced computer science concepts
+- Strengthening backend development
+- Building real-world full-stack projects
+- Improving problem-solving (DSA)
+- Learning system design basics
 
 ---
 
 ## 📫 Contact Me
 
-* 📧 Email: [yusuf.jeeh@gmail.com](mailto:yusuf.jeeh@gmail.com)
-* 💼 LinkedIn: https://www.linkedin.com/in/yousuf-h-osman-4212aa3b0/
-* 🐙 GitHub: https://github.com/Yousuf-Hassan
-* 🐙Instgram:https://www.instagram.com/haji_jeex/
+- 📧 Email: yusuf.jeeh@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/yousuf-h-osman-4212aa3b0  
+- 🐙 GitHub: github.com/Yousuf-Hassan  
+- 📸 Instagram: instagram.com/haji_jeex  
 
 ---
 
 ## ⚡ Fun Fact
 
-I enjoy learning how computers work from hardware to software and exploring new technologies every day.
+I enjoy understanding how systems work from **hardware → software → network level**, and building things from scratch.
 
 ---
 
 <p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
+  <b>Thanks for visiting my profile 🚀</b>
 </p>
