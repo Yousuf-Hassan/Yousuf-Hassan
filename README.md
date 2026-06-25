@@ -19,16 +19,6 @@
 
 ---
 
-## 🎯 Goals
-
-- Become a strong Computer Scientist
-- Build scalable backend systems
-- Master system design & networking
-- Work on real-world impactful projects
-- Start tech-based innovations in the future
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
