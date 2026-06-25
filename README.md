@@ -46,19 +46,20 @@
   <table align="center" border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td>
-        <img src="https://vercel.app" height="200" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Yousuf-Hassan&show_icons=true&theme=tokyonight" height="200" />
       </td>
-      <td width="10"></td>
+      <td width="10"></td> <!-- Meel bannaan oo u dhaxaysa labada kaadh -->
       <td>
-        <img src="https://demolab.com" height="200" />
+        <img src="https://streak-stats.demolab.com?user=Yousuf-Hassan&theme=tokyonight" height="200" />
       </td>
     </tr>
   </table>
 </p>
 
 <p align="center">
-  <img src="https://vercel.app" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf-Hassan&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
