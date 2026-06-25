@@ -3,21 +3,17 @@
 <h3 align="center">🎓 Computer Science Student | 🚀 Future Backend Developer | 🔬 Aspiring Computer Scientist</h3>
 
 <p align="center">
-  <img src="https://demolab.com">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Backend+Developer+in+Progress;Linux+and+Networking+Learner;Future+Computer+Scientist;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
 ---
 
 ## 🌱 Currently Learning
 
+* Backend Development
 * JavaScript
-* Node.js
-* npm and packages
-* Building simple APIs with Node's http module
-* Express.js
-* Databases (PostgreSQL)
-* Authentication, testing, deployment
 * Data Structures and Algorithms
+* SQL Databases
 * Linux and Networking
 * Computer Science Fundamentals
 
@@ -35,7 +31,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,linux,git,github,vscode" />
 </p>
 
 ---
@@ -43,17 +39,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <table align="center" border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Yousuf-Hassan&show_icons=true&theme=tokyonight" height="200" />
-      </td>
-      <td width="10"></td> <!-- Meel bannaan oo u dhaxaysa labada kaadh -->
-      <td>
-        <img src="https://streak-stats.demolab.com?user=Yousuf-Hassan&theme=tokyonight" height="200" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yousuf-Hassan&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Yousuf-Hassan&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -84,9 +74,9 @@
 ## 📫 Contact Me
 
 * 📧 Email: [yusuf.jeeh@gmail.com](mailto:yusuf.jeeh@gmail.com)
-* 💼 LinkedIn: https://linkedin.com
-* 🐙 GitHub: https://github.com
-* 🐙 Instagram: https://instagram.com
+* 💼 LinkedIn: https://www.linkedin.com/in/yousuf-h-osman-4212aa3b0/
+* 🐙 GitHub: https://github.com/Yousuf-Hassan
+* 🐙Instgram:https://www.instagram.com/haji_jeex/
 
 ---
 
