@@ -10,12 +10,9 @@
 
 ## 🌱 Currently Learning
 
-- Backend Development (Node.js)
-- JavaScript (ES6+)
-- Data Structures & Algorithms
-- SQL Databases (PostgreSQL)
-- Linux & Networking
-- Computer Science Fundamentals
+- Backend Development (Node.js)    - JavaScript (ES6+)
+- Data Structures & Algorithms     - SQL Databases (PostgreSQL)
+- Linux & Networking               - Computer Science Fundamentals
 
 ---
 
@@ -59,32 +56,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf-Hassan&layout=compact&theme=tokyonight"/>
 </p>
 
----
-
-## 🚀 Projects
-
-- 🔍 Linux Command Search Engine  
-- 🌐 Personal Portfolio Website  
-- 🔐 Authentication System (Login/Register)  
-- 💻 Backend APIs (In progress)
-
----
-
-## 📚 Currently Working On
-
-- Strengthening backend development
-- Building real-world full-stack projects
-- Improving problem-solving (DSA)
-- Learning system design basics
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: yusuf.jeeh@gmail.com  
-- 💼 LinkedIn: www.linkedin.com/in/yousuf-h-osman-4212aa3b0  
-- 🐙 GitHub: github.com/Yousuf-Hassan  
-- 📸 Instagram: instagram.com/haji_jeex  
 
 ---
 
