@@ -29,7 +29,7 @@
 ---
 
 ## 🛠️ Tech Stack
-
+<h1>Frontend</h1>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,postgresql,node,git,github,vscode" />
 </p>
