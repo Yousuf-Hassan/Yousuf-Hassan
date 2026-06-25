@@ -32,17 +32,17 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,angular" />
 </p>
 
 ### ⚙️ Backend & Tools
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,git,github,vscode" />
 </p>
 
 ### 📚 Languages
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,javascript,cpp" />
 </p>
 
