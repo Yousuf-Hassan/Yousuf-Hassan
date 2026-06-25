@@ -3,7 +3,7 @@
 <h3 align="center">🎓 Computer Science Student | 🚀 Backend Developer in Progress | 🔬 Aspiring Computer Scientist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Web+%26+App+Developer;Network+Engineer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Web+%26+App+Developer;Network+Engineer&center=true&width=500&height=50">
 </p>
 
 ---
