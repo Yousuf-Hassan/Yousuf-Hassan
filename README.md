@@ -91,10 +91,10 @@
 ---
 
 
-
-<div align="left">
 🌱 **Currently Learning**
+<div align="left">
 
+<br/>
 * 🌐 Web and App Development
 * 📊 Data Science and Analytics
 * 🤖 Machine Learning and Artificial Intelligence
