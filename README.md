@@ -13,12 +13,9 @@
 </a>
 
 </div>
-
+<div align="right">
 ## 🧭 About Me
 
-<table>
-<tr>
-<td valign="top" width="70%">
 
 ☀️ Began the journey with Software Development through **Linux, SQL & Data Structures** fundamentals
 
@@ -33,21 +30,19 @@
 ⚡ Interest in Artificial Intelligence, Machine Learning, Networking, and Entrepreneurship
 
 ✨ Always learning, building, and improving.
+</div>
 
-</td>
-<td valign="top" width="30%" align="center">
+
 
 **✴️ Follow Me on:**
+<br>
+<div align="right">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-<br/>
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yousuf-Hassan)
-<br/>
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-2c5364?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
