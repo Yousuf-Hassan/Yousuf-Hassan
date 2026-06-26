@@ -68,7 +68,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![CCNA](https://img.shields.io/badge/CCNA%20Fundamentals-003366?style=for-the-badge)
+![CCNA](https://img.shields.io/badge/CCNA%20-003366?style=for-the-badge)
 ![Computer Networks](https://img.shields.io/badge/Computer%20Networks-1B3A57?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
