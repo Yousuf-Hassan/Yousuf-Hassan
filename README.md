@@ -13,7 +13,7 @@
 </a>
 
 </div>
-<div align="right">
+<div align="left">
 ## 🧭 About Me
 
 
