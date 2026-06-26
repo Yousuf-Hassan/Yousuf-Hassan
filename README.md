@@ -40,12 +40,16 @@
 <div align="right">
 ✴️ Follow Me on:
   
-<br>
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/instgram-181717?style=for-the-badge&logo=instgram&logoColor=white)](https://intgram.com/haji_jeex)
-[![Email](https://img.shields.io/badge/Email-2c5364?style=for-the-badge&logo=gmail&logoColor=white)](#)
-
+<div align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/haji_jeex/">
+    <img src="https://shields.io" alt="Instagram">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Email-2c5364?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </div>
 
 ---
