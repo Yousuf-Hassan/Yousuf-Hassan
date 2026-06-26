@@ -1,90 +1,45 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0061ff,100:60efff&height=200&section=header&text=Yusuf%20Hassan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20CS%20Student&descAlignY=55&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Backend+Developer+in+Progress;Node.js+%7C+Express+%7C+PostgreSQL;Linux+%26+Networking+Enthusiast&font=Fira+Code&center=true&width=650&height=50&color=60efff&vCenter=true&size=22">
-
-</div>
-
-<br/>
-
-## 👋 About Me
-
-- 🎓 Computer Science student, Faculty of Computing & IT, University of Hargeisa
-- 🌍 Based in **Hargeisa, Somaliland**
-- 🚀 Building backend development skills — Node.js, Express, PostgreSQL, Prisma, Docker
-- 🧠 Strong fundamentals in Data Structures, Algorithms & SQL
-- 🔭 Working toward junior backend-developer readiness
-- 💬 Ask me about Linux, SQL, or anything backend-related
-
-<br/>
-
-## 🌱 Currently Learning
-
-| Area | Focus |
-|---|---|
-| 🟢 Backend Development | Node.js, Express.js |
-| 🟡 Databases | PostgreSQL, Prisma ORM |
-| 🐳 DevOps Basics | Docker |
-| 🧮 Computer Science | Data Structures & Algorithms |
-| 🐧 Systems | Linux & Networking |
-
-<br/>
-
-## 🛠️ Tech Stack
+<h1 align="center">Hi 👋, I'm Haji</h1>
+<h3 align="center">CS Student · Software Developer · Entrepreneur</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=haji-dev&label=Profile%20views&color=0e75b6&style=flat" alt="haji-dev" />
 </p>
 
-<br/>
+---
 
-## 📊 GitHub Stats
+## 🧑‍💻 About me
+
+I'm a Computer Science student at the University of Hargeisa building real-world full-stack projects. Passionate about clean code, developer tools, and building technology for Somaliland.
+
+## 📌 At a glance
+
+- 🔭 Currently building **Hanti-dhawr ERP — a full-stack SaaS ERP for Somali SMEs**
+- 🌱 Learning **PostgreSQL, Docker, DSA**
+- 📍 Based in **Hargeisa, Somaliland**
+
+## 🛠️ Tech stack
+
+**Languages:** ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+**Frontend:** ![](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+
+**Backend:** ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=nodedotjs&logoColor=white) ![](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+
+**Databases:** ![](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+**Tools:** ![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yousuf-Hassan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=Yousuf-Hassan&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haji-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haji-dev&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf-Hassan&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=haji-dev&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yousuf-Hassan&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+---
 
-<br/>
-
-## ⚡ Fun Fact
-
-I love understanding systems from **hardware → software → network**, and building things from scratch instead of just using them.
-
-<br/>
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/your-twitter"><img src="https://img.shields.io/badge/https://x.com/haji_jeex?style=for-the-badge&logo=x&logoColor=white" /></a>
-</p>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60efff,100:0061ff&height=100&section=footer" width="100%"/>
-
-**Thanks for visiting my profile 🚀**
-
-</div>
+<p align="center"><em>Built with ❤️ from Hargeisa, Somaliland</em></p>
