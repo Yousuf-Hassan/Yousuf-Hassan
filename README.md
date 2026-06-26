@@ -16,12 +16,15 @@
 
 ## 🧭 About Me
 
+🎓 Computer Science student with a strong passion for technology, software development, and research. Currently focused on learning **full-stack Web & App Development**, **Networking**, and **Computer Science fundamentals**.
+
+I enjoy building projects, solving problems, and continuously expanding my knowledge in programming and technology. My goal is to become a skilled **Computer Scientist**, **Web & App Developer**, **Network Engineer**, **Researcher**, and **Entrepreneur** who creates impactful solutions and contributes to the tech community.
+
+🚀 Always learning, building, and improving.
+
 - 🎓 4th-semester **Computer Science** student, Faculty of Computing & IT, **University of Hargeisa**
-- 🛠️ Foundations in **Linux, SQL, and Data Structures** — now going deep on backend development
-- 🚀 Following a self-directed **2-month backend roadmap (Node.js → Express → PostgreSQL → Prisma → Docker)**
 - 🏢 Long-term builder of an **ERP concept for Somaliland SMEs** — Sales, Finance, Inventory, HR & Procurement
 - 🇸🇴 Somali speaker, technical work in English
-- ⚡ Goal: junior-level backend readiness, then on to frontend
 
 ---
 
@@ -29,9 +32,18 @@
 
 <div align="center">
 
-![](https://skillicons.dev/icons?i=linux,bash,git,github,html,css,js,nodejs,express,postgres,mysql,prisma,docker,vscode)
+![](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql,postgres,mongodb,git,github,linux,ubuntu,java,cpp,python)
 
 </div>
+
+| Category | Stack |
+|---|---|
+| 🎨 **Frontend** | HTML, CSS, JavaScript |
+| ⚙️ **Backend** | Node.js, Express.js |
+| 🗄️ **Databases** | SQL, PostgreSQL, SQL Server, MongoDB |
+| 🛠️ **Tools & Technologies** | Git, GitHub, Linux, Ubuntu |
+| 🌐 **Networking** | CCNA Fundamentals, Computer Networks |
+| 💻 **Programming Languages** | Java, JavaScript, C++, Python |
 
 ---
 
