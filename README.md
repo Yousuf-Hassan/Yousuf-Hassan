@@ -9,8 +9,9 @@
 ![Location](https://img.shields.io/badge/Based%20in-Hargeisa%2C%20Somaliland-0f2027?style=flat-square)
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Salaan!+%F0%9F%91%8B+I'm+Alpha;CS+Student+%40+University+of+Hargeisa;Learning+Node.js%2C+Express+%26+PostgreSQL;Building+ERP+tools+for+Somaliland+SMEs" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Salaan!+%F0%9F%91%8B+I'm+Alpha;Computer+Science+Student;App+%26+Web+Full+Stack+Developer;Learning+ML+%26+AI" />
 </a>
+</div>
 
 </div>
 <div align="left">
