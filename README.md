@@ -40,17 +40,11 @@
 <div align="right">
 ✴️ Follow Me on:
   
-<p align="center">
-  <a href="#" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn">
-  </a>
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://shields.io" alt="Instagram">
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://shields.io" alt="Email">
-  </a>
-</p>
+<br>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/haji_jeex/)
+[![Email](https://img.shields.io/badge/Email-2c5364?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
 </div>
 
