@@ -33,21 +33,6 @@
 ✨ Always learning, building, and improving.
 </div>
 
-
-
-
-<br><br>
-<div align="right">
-✴️ Follow Me on:
-  
-<br>
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/haji_jeex/)
-[![Email](https://img.shields.io/badge/Email-2c5364?style=for-the-badge&logo=gmail&logoColor=white)](#)
-
-</div>
-
 ---
 
 ## 🧰 Tech Stack
