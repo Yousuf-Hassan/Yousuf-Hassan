@@ -1,77 +1,80 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0061ff,100:60efff&height=200&section=header&text=Yusuf%20Hassan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20CS%20Student&descAlignY=55&descSize=18" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Backend+Developer+in+Progress;Node.js+%7C+Express+%7C+PostgreSQL;Linux+%26+Networking+Enthusiast&font=Fira+Code&center=true&width=650&height=50&color=60efff&vCenter=true&size=22">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Alpha%20%7C%20Yousuf%20Hassan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20in%20Progress&descAlignY=55&descSize=18" width="100%"/>
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Yousuf-Hassan&color=2c5364&style=flat-square&label=Profile+Views)](https://github.com/Yousuf-Hassan)
+![Status](https://img.shields.io/badge/Status-Learning%20Backend%20Dev-2c5364?style=flat-square)
+![Location](https://img.shields.io/badge/Based%20in-Hargeisa%2C%20Somaliland-0f2027?style=flat-square)
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Salaan!+%F0%9F%91%8B+I'm+Alpha;CS+Student+%40+University+of+Hargeisa;Learning+Node.js%2C+Express+%26+PostgreSQL;Building+ERP+tools+for+Somaliland+SMEs" />
+</a>
+
 </div>
-<br/>
-## 👋 About Me
-- 🎓 Computer Science student, Faculty of Computing & IT, University of Hargeisa
-- 🌍 Based in **Hargeisa, Somaliland**
-- 🚀 Building backend development skills — Node.js, Express, PostgreSQL, Prisma, Docker
-- 🧠 Strong fundamentals in Data Structures, Algorithms & SQL
-- 🔭 Working toward junior backend-developer readiness
-- 💬 Ask me about Linux, SQL, or anything backend-related
-<br/>
-## 🌱 Currently Learning
-| Area | Focus |
-|---|---|
-| 🟢 Backend Development | Node.js, Express.js |
-| 🟡 Databases | PostgreSQL, Prisma ORM |
-| 🐳 DevOps Basics | Docker |
-| 🧮 Computer Science | Data Structures & Algorithms |
-| 🐧 Systems | Linux & Networking |
-<br/>
-____
 
+## 🧭 About Me
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
-<br/>
+- 🎓 4th-semester **Computer Science** student, Faculty of Computing & IT, **University of Hargeisa**
+- 🛠️ Foundations in **Linux, SQL, and Data Structures** — now going deep on backend development
+- 🚀 Following a self-directed **2-month backend roadmap (Node.js → Express → PostgreSQL → Prisma → Docker)**
+- 🏢 Long-term builder of an **ERP concept for Somaliland SMEs** — Sales, Finance, Inventory, HR & Procurement
+- 🇸🇴 Somali speaker, technical work in English
+- ⚡ Goal: junior-level backend readiness, then on to frontend
 
-___________
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+![](https://skillicons.dev/icons?i=linux,bash,git,github,html,css,js,nodejs,express,postgres,mysql,prisma,docker,vscode)
+
+</div>
+
+---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yousuf-Hassan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=Yousuf-Hassan&theme=tokyonight&hide_border=true" height="170" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf-Hassan&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yousuf-Hassan&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-<br/>
 
-____________
-
-## ⚡ Fun Fact
-I love understanding systems from **hardware → software → network**, and building things from scratch instead of just using them.
-<br/>
-## 📫 Connect With Me
-<p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/your-twitter"><img src="https://img.shields.io/badge/https://x.com/haji_jeex?style=for-the-badge&logo=x&logoColor=white" /></a>
-</p>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60efff,100:0061ff&height=100&section=footer" width="100%"/>
-**Thanks for visiting my profile 🚀**
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yousuf-Hassan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Yousuf-Hassan&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf-Hassan&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
+---
 
-____________________
+## 🌱 Currently Learning
 
-like this
+```bash
+$ cat roadmap.txt
+[x] JavaScript ES6+
+[x] Node.js fundamentals
+[ ] Express.js & REST APIs
+[ ] PostgreSQL + Prisma ORM
+[ ] Authentication (JWT / bcrypt)
+[ ] Docker
+[ ] Deployment
+```
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yousuf-Hassan)
+[![Email](https://img.shields.io/badge/Email-2c5364?style=for-the-badge&logo=gmail&logoColor=white)](#)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+
+</div>
