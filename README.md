@@ -28,7 +28,7 @@
 
 💬 Ask me about Full-Stack Development, PostgreSQL & Prisma, or building **ERP solutions for Somaliland SMEs**
 
-⚡ Interest in Artificial Intelligence, Machine Learning, Networking, and Entrepreneurship
+⚡ Interest in Artificial Intelligence, Machine Learning,  and Networking
 
 ✨ Always learning, building, and improving.
 </div>
