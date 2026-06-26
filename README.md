@@ -20,6 +20,9 @@
 | 🧮 Computer Science | Data Structures & Algorithms |
 | 🐧 Systems | Linux & Networking |
 <br/>
+____
+
+
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -36,6 +39,9 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 <br/>
+
+___________
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yousuf-Hassan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
@@ -48,6 +54,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Yousuf-Hassan&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 <br/>
+
+____________
+
 ## ⚡ Fun Fact
 I love understanding systems from **hardware → software → network**, and building things from scratch instead of just using them.
 <br/>
