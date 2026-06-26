@@ -92,7 +92,7 @@
 
 
 
-<div align="right">
+<div align="left">
 🌱 **Currently Learning**
 
 * 🌐 Web and App Development
