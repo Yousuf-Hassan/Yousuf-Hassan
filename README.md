@@ -18,7 +18,7 @@
 ## 🧭 About Me
 
 
-☀️ Began the journey with Software Development through **Linux, SQL & Data Structures** fundamentals
+☀️ Began the journey with Software Development through **Java, C++, Object-Oriented Programming  & Data Structures** fundamentals
 
 🎧 I work on **Full-Stack Web & App Development** (React, Vue, Angular, Node.js, Express) when exploring new ideas
 
