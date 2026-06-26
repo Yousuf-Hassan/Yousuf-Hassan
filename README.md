@@ -31,26 +31,12 @@ I enjoy building projects, solving problems, and continuously expanding my knowl
 ## 🧰 Tech Stack
 
 <div align="center">
-
-![](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql,postgres,mongodb,git,github,linux,ubuntu,java,cpp,python)
-
-</div>
-
-<div align="center">
-
-**🎨 Frontend**
-<br/>
+  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**⚙️ Backend**
-<br/>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**🗄️ Databases**
-<br/>
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
