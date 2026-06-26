@@ -94,16 +94,31 @@ I enjoy building projects, solving problems, and continuously expanding my knowl
 
 ## 🌱 Currently Learning
 
-```bash
-$ cat roadmap.txt
-[x] JavaScript ES6+
-[x] Node.js fundamentals
-[ ] Express.js & REST APIs
-[ ] PostgreSQL + Prisma ORM
-[ ] Authentication (JWT / bcrypt)
-[ ] Docker
-[ ] Deployment
-```
+<div align="center">
+
+### 📍 2-Month Backend Roadmap <sub>(Jul – Aug 2026)</sub>
+
+![Overall Progress](https://img.shields.io/badge/Overall%20Progress-35%25-2c5364?style=for-the-badge)
+
+<br/><br/>
+
+**✅ Done**
+
+![JavaScript ES6+](https://img.shields.io/badge/JavaScript_ES6-Done-brightgreen?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js Fundamentals](https://img.shields.io/badge/Node.js_Fundamentals-Done-brightgreen?style=for-the-badge&logo=node.js&logoColor=white)
+
+**🔄 In Progress**
+
+![Express.js & REST APIs](https://img.shields.io/badge/Express.js_REST_APIs-In_Progress-yellow?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL + Prisma](https://img.shields.io/badge/PostgreSQL_Prisma-In_Progress-yellow?style=for-the-badge&logo=prisma&logoColor=white)
+
+**⏳ Upcoming**
+
+![Authentication](https://img.shields.io/badge/Authentication_JWT_bcrypt-Upcoming-lightgrey?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Upcoming-lightgrey?style=for-the-badge&logo=docker&logoColor=white)
+![Deployment](https://img.shields.io/badge/Deployment-Upcoming-lightgrey?style=for-the-badge)
+
+</div>
 
 ---
 
