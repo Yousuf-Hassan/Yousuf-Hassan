@@ -61,11 +61,6 @@
 
 ---
 
-
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
 ## 📊 GitHub Stats
 
 <div align="center">
