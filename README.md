@@ -64,14 +64,16 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Yousuf-Hassan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://vercel.app" />
 <img height="165" src="https://demolab.com" />
-<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Yousuf-Hassan&layout=compact&theme=tokyonight&hide_border=true" />
-
+<img height="165" src="https://vercel.app" />
 
 </div>
+
 
 ---
 
