@@ -70,7 +70,6 @@
 <img height="165" src="https://demolab.com" />
 <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Yousuf-Hassan&layout=compact&theme=tokyonight&hide_border=true" />
 
-</div>
 
 </div>
 
