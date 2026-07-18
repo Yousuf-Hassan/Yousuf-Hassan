@@ -67,7 +67,6 @@
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yousuf-Hassan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Yousuf-Hassan&theme=tokyonight&hide_border=true" />
-![Yousuf-Hassan GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005&show_icons=true&theme=radical)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf-Hassan&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
