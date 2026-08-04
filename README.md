@@ -42,14 +42,25 @@ I'm a Computer Science student at the University of Hargeisa (Faculty of Enginee
 
 ---
 
+### Featured projects
+
+| Project | Description |
+|---|---|
+| 🧾 **Hanti-dhawr** | Somali-language SaaS ERP platform for Somaliland SMEs |
+| 🏠 **Real Estate Landing Page** | Full-stack app with JWT auth + PostgreSQL/Prisma |
+| 💻 **Portfolio Site** | Terminal-style hero, JWT-protected admin dashboard, Nodemailer contact form |
+| 🎓 **git-github-practice** | Git & GitHub Bootcamp assignment — branching, commits, PR workflow |
+
+---
+
 ### GitHub stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=haji-jeex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=haji-jeex&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haji-jeex&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=haji-jeex&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=haji-jeex&theme=tokyonight&no-frame=true&row=1&column=6" width="95%"/>
 
 </div>
 
