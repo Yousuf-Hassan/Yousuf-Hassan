@@ -122,4 +122,3 @@ Currently, I'm building **Hanti-dhawr**, a Somali-language ERP platform for busi
 *"Code. Learn. Build. Repeat."*
 
 </div>
-
