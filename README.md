@@ -50,17 +50,6 @@
 ---
 
 
-🌱 **Currently Learning**
-<div align="left">
-
-
-* 🌐 Web and App Development
-* 📊 Data Science and Analytics
-* 🤖 Machine Learning and Artificial Intelligence
-* 🌐 Network Engineering
-
-</div>
-
 
 
 ---
