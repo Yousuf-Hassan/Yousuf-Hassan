@@ -58,9 +58,6 @@ I'm a Computer Science student at the University of Hargeisa (Faculty of Enginee
 <div align="center">
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=haji-jeex&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haji-jeex&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=haji-jeex&theme=tokyonight&no-frame=true&row=1&column=6" width="95%"/>
 
 </div>
 
