@@ -42,17 +42,6 @@ I'm a Computer Science student at the University of Hargeisa (Faculty of Enginee
 
 ---
 
-### Featured projects
-
-| Project | Description |
-|---|---|
-| 🧾 **Hanti-dhawr** | Somali-language SaaS ERP platform for Somaliland SMEs |
-| 🏠 **Real Estate Landing Page** | Full-stack app with JWT auth + PostgreSQL/Prisma |
-| 💻 **Portfolio Site** | Terminal-style hero, JWT-protected admin dashboard, Nodemailer contact form |
-| 🎓 **git-github-practice** | Git & GitHub Bootcamp assignment — branching, commits, PR workflow |
-
----
-
 ### GitHub stats
 
 <div align="center">
