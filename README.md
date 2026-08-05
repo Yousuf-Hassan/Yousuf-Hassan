@@ -28,13 +28,19 @@ Computer Science student at the University of Hargeisa, focused on becoming a ba
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+* Gthub stack
+<div align="center">
 
-### Stats 📊 | Top Languages 💻
+[![GitHub Streak](https://streak-stats.demolab.com?user=mrhx01&theme=tokyonight&border=00D4FF&ring=7C3AED&fire=FF6B6B&currStreakLabel=00D4FF)](https://git.io/streak-stats)
 
-| Stats 📊 | Top Languages 💻 |
-| --- | --- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Yousuf-Hassan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf-Hassan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) |
 
+<img src="https://github-readme-mwendwa.vercel.app/api?username=mrhx01&show_icons=true&count_private=true&line_height=20&theme=tokyonight" alt="GitHub Stats" />
+
+<img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=mrhx01&layout=compact&count_private=true&theme=tokyonight" alt="Top Languages" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrhx01&theme=radical"/>
+
+</div>
 
 <p align="center">
 Backend developer in training, building for Somaliland.
