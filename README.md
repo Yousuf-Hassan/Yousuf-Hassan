@@ -29,57 +29,12 @@ Computer Science student at the University of Hargeisa, focused on becoming a ba
 
 ---
 
-# 🚀 Featured Projects
-
-## 🧾 Hanti-dhawr — SaaS ERP Platform
-
-A Somali-language ERP platform built for Somaliland SMEs.
-
-**Stack:** Node.js • Express • PostgreSQL • React
-
----
-
-## 🏠 Real Estate Landing Page
-
-Full-stack app with JWT authentication and a PostgreSQL/Prisma backend.
-
----
-
-## 💻 Portfolio Site
-
-Terminal-style hero section, JWT-protected admin dashboard, Nodemailer-powered contact form.
-
----
-
-## 🎓 Git & GitHub Bootcamp
-
-Assignments and practice from the Goobo Labs Git & GitHub Bootcamp.
-
-Repository: [goobolabs/git-github-bootcamp](https://github.com/goobolabs/git-github-bootcamp)
-
----
-
 ### Stats 📊 | Top Languages 💻
 
 | Stats 📊 | Top Languages 💻 |
 | --- | --- |
 | ![Stats](https://github-readme-stats.vercel.app/api?username=Yousuf-Hassan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf-Hassan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) |
 
-# 📈 Currently
-
-- Going through the Git & GitHub Bootcamp at Goobo Labs
-- Building Hanti-dhawr end to end
-- Sharpening backend fundamentals (Node.js, Express, PostgreSQL)
-
----
-
-# 🤝 Connect
-
-💼 LinkedIn: [Yousuf H. Osman](https://linkedin.com/in/yousuf-h-osman-4212aa3b0)
-
-📧 yusuf.jeeh@gmail.com
-
----
 
 <p align="center">
 Backend developer in training, building for Somaliland.
