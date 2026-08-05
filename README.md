@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Yousuf%20H.%20Osman&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Haji%20%7C%20Yousuf%20H.%20Osman&fontSize=26&fontColor=ffffff&animation=fadeIn" />
+</p>
 
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=B550FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Backend+Developer+in+Training+%F0%9F%9A%80;Building+Hanti-dhawr+%E2%80%94+SaaS+ERP;Always+learning+new+things+%F0%9F%92%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=B550FF&center=true&vCenter=true&width=600&lines=I%27m+a+Computer+Science+Student+%F0%9F%8E%93;Learning+Full-Stack+Web+%26+App+Dev+with+JS+%F0%9F%92%BB;Node.js+%C2%B7+Express+%C2%B7+React+%C2%B7+PostgreSQL" alt="Typing SVG" />
   </a>
 </p>
 
