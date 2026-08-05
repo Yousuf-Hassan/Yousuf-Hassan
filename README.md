@@ -1,6 +1,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Haji%20%7C%20Yousuf%20H.%20Osman&fontSize=26&fontColor=ffffff&animation=fadeIn" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Haji%20%7C%20Yousuf%20H.%20Osman&fontSize=26&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
