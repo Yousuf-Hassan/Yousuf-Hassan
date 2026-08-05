@@ -1,27 +1,86 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Yousuf%20H.%20Osman&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=550&lines=Yousuf+H.+Osman+%C2%B7+Backend+Developer+in+Training;Node.js+%C2%B7+Express+%C2%B7+PostgreSQL+%C2%B7+React;Building+Hanti-dhawr+%E2%80%94+SaaS+ERP+for+Somaliland+SMEs" alt="Typing SVG" />
-</a>
+# Yousuf H. Osman | Backend Developer
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yousuf-h-osman-4212aa3b0)
-[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/haji_jeex)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yusuf.jeeh@gmail.com)
+> Building practical software systems for Somaliland — one clean commit at a time.
 
-</div>
+Computer Science student at the University of Hargeisa, focused on becoming a backend developer. Long-term, working toward being a computer scientist, researcher, and tech entrepreneur in East Africa.
 
-CS student at the University of Hargeisa, focused on becoming a backend developer. Currently building **Hanti-dhawr**, a Somali-language SaaS ERP platform for Somaliland SMEs, and going through the Git & GitHub Bootcamp at Goobo Labs.
+---
 
-**Tech:** JavaScript · Node.js · Express · PostgreSQL · React · Git
+# 🎯 Engineering Focus
 
-**Projects**
-- [goobolabs/git-github-bootcamp](https://github.com/goobolabs/git-github-bootcamp) — Git & GitHub Bootcamp
-- [git-github-practice](https://github.com/Yousuf-Hassan/git-github-practice) — bootcamp assignments
-- Real Estate Landing Page — JWT auth + PostgreSQL/Prisma
-- Portfolio Site — terminal-style hero, JWT admin dashboard
+- **Backend Development** — REST APIs, authentication, and database modeling with Node.js and Express
+- **Full-Stack Engineering** — building complete apps with React on the frontend, PostgreSQL on the backend
+- **Practical Systems for Somaliland** — currently building Hanti-dhawr, a Somali-language SaaS ERP for local SMEs
 
-<div align="center">
+---
 
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Yousuf-Hassan&theme=tokyonight&hide_border=true" />
+# 🛠️ Technology Stack
 
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+## 🧾 Hanti-dhawr — SaaS ERP Platform
+
+A Somali-language ERP platform built for Somaliland SMEs.
+
+**Stack:** Node.js • Express • PostgreSQL • React
+
+---
+
+## 🏠 Real Estate Landing Page
+
+Full-stack app with JWT authentication and a PostgreSQL/Prisma backend.
+
+---
+
+## 💻 Portfolio Site
+
+Terminal-style hero section, JWT-protected admin dashboard, Nodemailer-powered contact form.
+
+---
+
+## 🎓 Git & GitHub Bootcamp
+
+Assignments and practice from the Goobo Labs Git & GitHub Bootcamp.
+
+Repository: [goobolabs/git-github-bootcamp](https://github.com/goobolabs/git-github-bootcamp)
+
+---
+
+### Stats 📊 | Top Languages 💻
+
+| Stats 📊 | Top Languages 💻 |
+| --- | --- |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Yousuf-Hassan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf-Hassan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) |
+
+# 📈 Currently
+
+- Going through the Git & GitHub Bootcamp at Goobo Labs
+- Building Hanti-dhawr end to end
+- Sharpening backend fundamentals (Node.js, Express, PostgreSQL)
+
+---
+
+# 🤝 Connect
+
+💼 LinkedIn: [Yousuf H. Osman](https://linkedin.com/in/yousuf-h-osman-4212aa3b0)
+
+📧 yusuf.jeeh@gmail.com
+
+---
+
+<p align="center">
+Backend developer in training, building for Somaliland.
+</p>
