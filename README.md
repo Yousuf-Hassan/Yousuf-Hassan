@@ -44,29 +44,9 @@ Currently, I'm building **Hanti-dhawr**, a Somali-language ERP platform for busi
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,express,postgres,git,github,html,css,vscode" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,git,github,vscode" />
 
 </div>
-
----
-
-# 📚 Currently Learning
-
-- Git & GitHub
-- Node.js
-- Express.js
-- PostgreSQL
-- REST API Development
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| **Hanti-dhawr ERP** | Somali-language ERP platform for businesses in Somaliland |
-| **Git & GitHub Practice** | Git branching, pull requests, merge conflicts, and workflows |
-| **Portfolio Website** | Personal portfolio showcasing my projects and skills |
 
 ---
 
