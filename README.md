@@ -2,6 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Yousuf%20H.%20Osman&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=B550FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Backend+Developer+in+Training+%F0%9F%9A%80;Building+Hanti-dhawr+%E2%80%94+SaaS+ERP;Always+learning+new+things+%F0%9F%92%A1" alt="Typing SVG" />
+  </a>
+</p>
+
 # Yousuf H. Osman | Backend Developer
 
 > Building practical software systems for Somaliland — one clean commit at a time.
@@ -20,6 +26,8 @@ Computer Science student at the University of Hargeisa, focused on becoming a ba
 
 # 🛠️ Technology Stack
 
+<p align="center">
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -27,20 +35,68 @@ Computer Science student at the University of Hargeisa, focused on becoming a ba
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+</p>
+
 ---
-* Gthub stack
+
+# 🚀 Featured Projects
+
+## 🧾 Hanti-dhawr — SaaS ERP Platform
+
+A Somali-language ERP platform built for Somaliland SMEs.
+
+**Stack:** Node.js • Express • PostgreSQL • React
+
+---
+
+## 🏠 Real Estate Landing Page
+
+Full-stack app with JWT authentication and a PostgreSQL/Prisma backend.
+
+---
+
+## 💻 Portfolio Site
+
+Terminal-style hero section, JWT-protected admin dashboard, Nodemailer-powered contact form.
+
+---
+
+## 🎓 Git & GitHub Bootcamp
+
+Assignments and practice from the Goobo Labs Git & GitHub Bootcamp.
+
+Repository: [goobolabs/git-github-bootcamp](https://github.com/goobolabs/git-github-bootcamp)
+
+---
+
+# 📊 GitHub Stats
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mrhx01&theme=tokyonight&border=00D4FF&ring=7C3AED&fire=FF6B6B&currStreakLabel=00D4FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yousuf-Hassan&theme=tokyonight&border=00D4FF&ring=7C3AED&fire=FF6B6B&currStreakLabel=00D4FF)](https://git.io/streak-stats)
 
-
-<img src="https://github-readme-mwendwa.vercel.app/api?username=mrhx01&show_icons=true&count_private=true&line_height=20&theme=tokyonight" alt="GitHub Stats" />
-
-<img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=mrhx01&layout=compact&count_private=true&theme=tokyonight" alt="Top Languages" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrhx01&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Yousuf-Hassan&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf-Hassan&layout=compact&count_private=true&theme=tokyonight" alt="Top Languages" />
 
 </div>
+
+---
+
+# 📈 Currently
+
+- Going through the Git & GitHub Bootcamp at Goobo Labs
+- Building Hanti-dhawr end to end
+- Sharpening backend fundamentals (Node.js, Express, PostgreSQL)
+
+---
+
+# 🤝 Connect
+
+💼 LinkedIn: [Yousuf H. Osman](https://linkedin.com/in/yousuf-h-osman-4212aa3b0)
+
+📧 yusuf.jeeh@gmail.com
+
+---
 
 <p align="center">
 Backend developer in training, building for Somaliland.
