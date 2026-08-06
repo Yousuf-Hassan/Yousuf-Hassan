@@ -22,7 +22,7 @@ I'm a Computer Science student at the University of Hargeisa, using the PERN Ful
 
 ---
 
-<div align="center">
+<div align="left">
 
 ## ◇ Projects
 
