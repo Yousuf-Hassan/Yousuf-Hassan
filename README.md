@@ -24,6 +24,18 @@ I'm a Computer Science student at the University of Hargeisa, using the PERN Ful
 
 <div align="center">
 
+## ◇ Projects
+
+🎓 [git-github-bootcamp](https://github.com/goobolabs/git-github-bootcamp) — Git & GitHub Bootcamp (Jul 2026)
+
+🏫 [Atlas-Project](https://github.com/Yousuf-Hassan/Atlas-Project) — School management system for Atlas University
+
+</div>
+
+---
+
+<div align="center">
+
 ## ◇ Tech Stack
 
 <br>
