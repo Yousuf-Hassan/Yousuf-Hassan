@@ -37,9 +37,9 @@ I'm a Computer Science student at the University of Hargeisa, using the PERN Ful
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
+
+<div align="center">## ◇ GitHub Stats
 
 <img height="165" src="https://github-readme-stats.shion.dev/api?username=Yousuf-Hassan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://streak-stats.demolab.com/?user=Yousuf-Hassan&theme=tokyonight&hide_border=true" />
