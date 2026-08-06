@@ -1,10 +1,10 @@
 <!-- Animated header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=HAJI%20%7C%20Yousuf%20H.%20Osman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=App%20%26%20Web%20Full%20Stack%20Developer%20%7C%20CS%20Student&descAlignY=58&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=HAJI%20%7C%20Yousuf%20H.%20Osman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PERN%20Full%20Stack%20Developer%20%7C%20CS%20Student&descAlignY=58&descSize=18"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer+in+the+making;Node.js+%2B+Express+%2B+PostgreSQL;Building+Hanti-dhawr+%F0%9F%87%B8%F0%9F%87%B4;Computer+Scientist+%7C+Researcher+%7C+Founder&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=PERN+Stack+Developer+in+the+making;PostgreSQL+%2B+Express+%2B+React+%2B+Node.js;Building+Hanti-dhawr+for+Somaliland;Computer+Scientist+%7C+Researcher+%7C+Founder&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22"/>
 </p>
 
 <br>
@@ -26,7 +26,7 @@ I'm a Computer Science student at the **University of Hargeisa**, Faculty of Eng
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,postgres,prisma,git&theme=dark" />
 </div>
 
 <br/>
