@@ -3,9 +3,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Yousuf%20%22Haji%22%20Osman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20CS%20Student%20%7C%20Building%20for%20Somaliland&descAlignY=58&descSize=18"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer+in+the+making;Node.js+%2B+Express+%2B+PostgreSQL;Building+Hanti-dhawr+%F0%9F%87%B8%F0%9F%87%B4;Computer+Scientist+%7C+Researcher+%7C+Founder&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22"/>
+</p>
 
-
-
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=58A6FF&style=flat"/>
