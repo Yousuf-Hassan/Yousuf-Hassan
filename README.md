@@ -21,10 +21,15 @@ I'm a Computer Science student at the University of Hargeisa, using the PERN Ful
 </div>
 
 ---
+<div align="center">
+  
+## ◇ Projects
+  
+</div>
 
 <div align="left">
 
-## ◇ Projects
+
 
 🎓 [git-github-bootcamp](https://github.com/goobolabs/git-github-bootcamp) — Git & GitHub Bootcamp (Jul 2026)
 
