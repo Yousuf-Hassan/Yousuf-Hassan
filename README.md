@@ -10,7 +10,7 @@
 
 </div>
 
-<div align="left">
+<div align="Center">
 
 ## ◇ About
 
@@ -18,9 +18,8 @@ I'm a Computer Science student at the University of Hargeisa, using the PERN Ful
 </div>
 
 ---
-<div align="center">
+
 ## ◇ Tech Stack
-</div>
 <div align="center">
 
 
