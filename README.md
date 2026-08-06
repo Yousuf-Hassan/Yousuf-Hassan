@@ -1,54 +1,100 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=HAJI%20%7C%20Yousuf%20H.%20Osman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PERN%20Full%20Stack%20Developer%20%7C%20CS%20Student&descAlignY=58&descSize=18"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=PERN+Stack+Developer+in+the+making;PostgreSQL+%2B+Express+%2B+React+%2B+Node.js;Building+Hanti-dhawr+for+Somaliland;Computer+Scientist+%7C+Researcher+%7C+Founder&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Haji%20%7C%20Yousuf%20Hassan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=App+and+Web%20Developer%20in%20Progress&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-I build full-stack web apps with the PERN stack — clean code, clear structure, things that actually work.
-</p>
-
-<br>
-______
-<h3 align="center">🛠️ Tech Stack</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,postgres,prisma,git&theme=dark" />
-</p>
-
-<br>
-
-<h3 align="center">## 📊 GitHub Analytics
+<br/>
 
 
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Hi!+%F0%9F%91%8B+I'm+Yousuf;Call+Me+Haji;Computer+Science+Student;App+%26+Web+Full+Stack+Developer;Learning+ML+%26+AI" />
+</a>
+</div>
 
-<br>
+</div>
+<div align="left">
+## 🧭 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Yousuf-Hassan&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="49%"/>
-  <img src="https://streak-stats.demolab.com/?user=Yousuf-Hassan&theme=dark&hide_border=true" width="49%"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Yousuf-Hassan&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
-</p>
+☀️ Began the journey with Software Development through **Java, C++, Object-Oriented Programming  & Data Structures** fundamentals
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Yousuf-Hassan/Yousuf-Hassan/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+🎧 I work on **Full-Stack Web & App Development** (React, Vue, Angular, Node.js, Express) when exploring new ideas
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
-</p>
+🎓 I am currently pursuing a degree in **Computer Science** at the **University of Hargeisa**
 
-<p align="center">
-⭐ Thanks for stopping by
-</p>
+🖥️ I'm also exploring **AI & ML** (Python, NumPy, Pandas) and **Network Engineering** (CCNA/CCNP)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
-</p>
+💬 Ask me about Full-Stack Development, PostgreSQL & Prisma, or building **ERP solutions for Somaliland SMEs**
+
+⚡ Interest in Artificial Intelligence, Machine Learning,  and Networking
+
+✨ Always learning, building, and improving.
+</div>
+
+---
+
+## 🧰 Tech Stack
+
+
+<div align="center">
+
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![CCNA](https://img.shields.io/badge/CCNA%20-003366?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+---
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Yousuf-Hassan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://demolab.com" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Yousuf-Hassan&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+</div>
+
+---
+
+
+🌱 **Currently Learning**
+<div align="left">
+
+
+* 🌐 Web and App Development
+* 📊 Data Science and Analytics
+* 🤖 Machine Learning and Artificial Intelligence
+* 🌐 Network Engineering
+
+</div>
+
+
+
+---
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+
+</div>
