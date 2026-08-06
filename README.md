@@ -1,103 +1,86 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Haji%20%7C%20Yousuf%20H.%20Osman&fontSize=26&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=B550FF&center=true&vCenter=true&width=600&lines=I%27m+a+Computer+Science+Student+%F0%9F%8E%93;Learning+Full-Stack+Web+%26+App+Dev+with+JS+%F0%9F%92%BB;Node.js+%C2%B7+Express+%C2%B7+React+%C2%B7+PostgreSQL" alt="Typing SVG" />
-  </a>
-</p>
-
-# Yousuf H. Osman | Backend Developer
-
-> Building practical software systems for Somaliland — one clean commit at a time.
-
-Computer Science student at the University of Hargeisa, focused on becoming a backend developer. Long-term, working toward being a computer scientist, researcher, and tech entrepreneur in East Africa.
-
----
-
-# 🎯 Engineering Focus
-
-- **Backend Development** — REST APIs, authentication, and database modeling with Node.js and Express
-- **Full-Stack Engineering** — building complete apps with React on the frontend, PostgreSQL on the backend
-- **Practical Systems for Somaliland** — currently building Hanti-dhawr, a Somali-language SaaS ERP for local SMEs
-
----
-
-# 🛠️ Technology Stack
-
-<p align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🧾 Hanti-dhawr — SaaS ERP Platform
-
-A Somali-language ERP platform built for Somaliland SMEs.
-
-**Stack:** Node.js • Express • PostgreSQL • React
-
----
-
-## 🏠 Real Estate Landing Page
-
-Full-stack app with JWT authentication and a PostgreSQL/Prisma backend.
-
----
-
-## 💻 Portfolio Site
-
-Terminal-style hero section, JWT-protected admin dashboard, Nodemailer-powered contact form.
-
----
-
-## 🎓 Git & GitHub Bootcamp
-
-Assignments and practice from the Goobo Labs Git & GitHub Bootcamp.
-
-Repository: [goobolabs/git-github-bootcamp](https://github.com/goobolabs/git-github-bootcamp)
-
----
-
-# 📊 GitHub Stats
-
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yousuf-Hassan&theme=tokyonight&border=00D4FF&ring=7C3AED&fire=FF6B6B&currStreakLabel=00D4FF)](https://git.io/streak-stats)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Yousuf%20H.%20Osman&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Backend%20Developer%20%C2%B7%20CS%20Student&descAlignY=65&descSize=16&animation=fadeIn" width="100%"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yousuf-Hassan&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf-Hassan&layout=compact&count_private=true&theme=tokyonight" alt="Top Languages" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=B550FF&center=true&vCenter=true&width=600&lines=Hargeisa%2C+Somaliland;Node.js+%C2%B7+Express+%C2%B7+React+%C2%B7+PostgreSQL;Building+Hanti-dhawr+%E2%80%94+SaaS+ERP" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+
+<br/>
+
+<table>
+<tr>
+<td align="center">
+
+**⭐ Stars**
+<br/>
+<sub>see profile</sub>
+
+</td>
+<td align="center">
+
+**🍴 Forks**
+<br/>
+<sub>see profile</sub>
+
+</td>
+<td align="center">
+
+**📦 Repos**
+<br/>
+<sub>see profile</sub>
+
+</td>
+<td align="center">
+
+**💻 Commits**
+<br/>
+<sub>see profile</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 📈 Currently
+### 📊 Stack Analytics
 
-- Going through the Git & GitHub Bootcamp at Goobo Labs
-- Building Hanti-dhawr end to end
-- Sharpening backend fundamentals (Node.js, Express, PostgreSQL)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf-Hassan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29" width="60%"/>
 
 ---
 
-# 🤝 Connect
+### 🔥 Activity Pulse
 
-💼 LinkedIn: [Yousuf H. Osman](https://linkedin.com/in/yousuf-h-osman-4212aa3b0)
-
-📧 yusuf.jeeh@gmail.com
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yousuf-Hassan&theme=tokyonight&hide_border=true&background=0f0c29" />
 
 ---
 
-<p align="center">
-Backend developer in training, building for Somaliland.
-</p>
+### 🚀 Primary Deployments
+
+| Project | Description | Stack |
+|---|---|---|
+| **Hanti-dhawr** | Somali-language SaaS ERP for Somaliland SMEs | Node.js · Express · PostgreSQL · React |
+| **Real Estate Landing Page** | Full-stack app with JWT auth | PostgreSQL · Prisma |
+| **Portfolio Site** | Terminal-style hero, JWT admin dashboard | Node.js · Nodemailer |
+| **[git-github-bootcamp](https://github.com/goobolabs/git-github-bootcamp)** | Git & GitHub Bootcamp practice | Git · GitHub |
+
+---
+
+<div align="center">
+
+💼 [LinkedIn](https://linkedin.com/in/yousuf-h-osman-4212aa3b0) · 📧 yusuf.jeeh@gmail.com
+
+<sub>Backend developer in training · Hargeisa, Somaliland</sub>
+
+</div>
