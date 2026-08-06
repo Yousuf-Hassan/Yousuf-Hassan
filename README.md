@@ -32,7 +32,7 @@ I'm a Computer Science student at the **University of Hargeisa**, Faculty of Eng
 </p>
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%"/>
+
 
 ## 📊 GitHub Analytics
 
