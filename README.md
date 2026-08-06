@@ -16,11 +16,9 @@
 
 ☀️ Began the journey with software development through **Java, C++, Object-Oriented Programming & Data Structures** fundamentals
 
-🎧 I build **full-stack web apps with the PERN stack** — PostgreSQL, Express.js, React, and Node.js
+🎧 I build would like to be **full-stack web apps with the PERN stack** — PostgreSQL, Express.js, React, and Node.js
 
 🎓 I am currently pursuing a degree in **Computer Science** at the **University of Hargeisa**
-
-🚀 Building **Hanti-dhawr**, a Somali-language SaaS ERP platform for Somaliland SMEs
 
 💬 Ask me about full-stack development, PostgreSQL & Prisma, or building ERP solutions for Somaliland SMEs
 
