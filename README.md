@@ -37,18 +37,10 @@ I'm a Computer Science student at the **University of Hargeisa**, Faculty of Eng
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Yousuf-Hassan&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Yousuf-Hassan&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Yousuf-Hassan&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Snake contribution animation — needs a one-time GitHub Actions setup, see note below -->
 <p align="center">
