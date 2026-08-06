@@ -58,7 +58,7 @@ I'm a Computer Science student at the University of Hargeisa, using the PERN Ful
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 ## ◇ GitHub Stats
 
@@ -76,4 +76,4 @@ I'm a Computer Science student at the University of Hargeisa, using the PERN Ful
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
 
-</div>
+</div> -->
