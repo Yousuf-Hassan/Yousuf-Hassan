@@ -20,7 +20,7 @@ I'm a Computer Science student at the University of Hargeisa, using the PERN Ful
 ---
 <div align="center">
 ## ◇ Tech Stack
-</div><br>
+</div>
 <div align="center">
 
 
