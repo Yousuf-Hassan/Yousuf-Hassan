@@ -21,6 +21,7 @@ I'm a Computer Science student at the University of Hargeisa, using the PERN Ful
 <div align="center">
 ## ◇ Tech Stack
 </div>
+
 <div align="center">
 
 
@@ -37,8 +38,11 @@ I'm a Computer Science student at the University of Hargeisa, using the PERN Ful
 
 ---
 <div align="center">
+  
 ## ◇ GitHub Stats
-</div><br>
+
+</div>
+
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.shion.dev/api?username=Yousuf-Hassan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
