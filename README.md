@@ -31,41 +31,6 @@ I'm a Computer Science student at the **University of Hargeisa**, Faculty of Eng
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,docker,react,vite,tailwind,javascript,java,cpp,linux,git,github"/>
 </p>
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-**Backend**
-- Node.js · Express.js
-- PostgreSQL · Prisma
-- Docker
-
-</td>
-<td valign="top" width="50%">
-
-**Frontend**
-- React · Vite
-- Tailwind CSS
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**Currently Learning**
-- Java · C++ · DSA
-- Networking · Linux
-
-</td>
-<td valign="top">
-
-**Tools**
-- Git & GitHub
-- VS Code · Postman
-
-</td>
-</tr>
-</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%"/>
 
