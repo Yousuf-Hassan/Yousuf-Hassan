@@ -7,18 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer+in+the+making;Node.js+%2B+Express+%2B+PostgreSQL;Building+Hanti-dhawr+%F0%9F%87%B8%F0%9F%87%B4;Computer+Scientist+%7C+Researcher+%7C+Founder&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22"/>
 </p>
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=58A6FF&style=flat"/>
-  <img src="https://img.shields.io/badge/Location-Hargeisa%2C%20Somaliland-2c5364?style=flat&logo=googlemaps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-brightgreen?style=flat"/>
-</p>
 
 <br>
 
