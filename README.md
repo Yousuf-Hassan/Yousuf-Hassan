@@ -22,15 +22,7 @@ I build full-stack web apps with the PERN stack — clean code, clear structure,
 
 <h3 align="center">📌 Projects</h3>
 
-<p align="center">
 
-🏦 <a href="YOUR_REPO_LINK">Hanti-dhawr</a> — Somali-language SaaS ERP platform for Somaliland SMEs<br>
-🐧 <a href="YOUR_REPO_LINK">Linux Command Search Engine</a> — terminal-styled command lookup tool (React + Express)<br>
-🏠 <a href="YOUR_REPO_LINK">Real Estate Landing Page</a> — full-stack app with JWT auth and PostgreSQL/Prisma<br>
-🛒 <a href="YOUR_REPO_LINK">Boyka Supermarket System</a> — inventory management (Node/Express + React)<br>
-🎓 <a href="YOUR_REPO_LINK">Git & GitHub Bootcamp</a> — bootcamp I completed on Git & GitHub fundamentals
-
-</p>
 
 <br>
 
