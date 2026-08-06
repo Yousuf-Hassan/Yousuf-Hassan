@@ -1,96 +1,49 @@
-<div align="center">
+<!-- Animated header banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=HAJI%20%7C%20Yousuf%20H.%20Osman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=App%20%26%20Web%20Full%20Stack%20Developer%20%7C%20CS%20Student&descAlignY=58&descSize=18"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=2EA6E0&center=true&vCenter=true&width=600&lines=Assalamu+Alaikum%2C+I'm+Haji+%F0%9F%91%8B;Backend+Developer+%7C+CS+Student;Building+Hanti-dhawr+%F0%9F%87%B8%F0%9F%87%B4;Node.js+%7C+Express+%7C+PostgreSQL+%7C+React" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer+in+the+making;Node.js+%2B+Express+%2B+PostgreSQL;Building+Hanti-dhawr+%F0%9F%87%B8%F0%9F%87%B4;Computer+Scientist+%7C+Researcher+%7C+Founder&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22"/>
+</p>
 
-</div>
+<br>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=2EA6E0&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+## 🧭 About Me
 
-</div>
+I'm a Computer Science student at the **University of Hargeisa**, Faculty of Engineering and Computing, on the path to becoming a backend developer, researcher, and tech entrepreneur in East Africa. I learn best by shipping real products — right now that means building a Somali-language SaaS ERP platform while I sharpen the fundamentals underneath it.
 
----
+- 🎓 Studying Computer Science — expected graduation 2028
+- 🛠️ Focused on backend engineering: Node.js, Express, PostgreSQL, Prisma
+- 🚀 Building **Hanti-dhawr**, a SaaS ERP for Somaliland SMEs
+- 🌍 Long-term goal: computer scientist, researcher, and tech entrepreneur in East Africa
+- 💬 Fluent in Af-Soomaali and English
 
-### 🧑🏽‍💻 Ku Saabsan Aniga / About Me
-
-**Af-Soomaali:** Waxaan ahay arday Computer Science ah oo ku jira Jaamacadda Hargeysa, Faculty of Engineering and Computing, halkaas oo aan ku bartaayo horumarinta software-ka. Waxaan si gaar ah u xiiseeyaa **backend development**, waxaanan hadda dhisayaa **Hanti-dhawr**, oo ah nidaam SaaS ERP ah oo Af-Soomaali ah oo loogu talagalay ganacsiyada yaryar ee Somaliland.
-
-**English:** I'm a Computer Science student at the University of Hargeisa (Faculty of Engineering and Computing), focused on becoming a backend developer. I'm currently building **Hanti-dhawr**, a Somali-language SaaS ERP platform for Somaliland SMEs — my flagship project spanning a 35-table schema across 13 modules.
-
-- 🔭 Currently working on: **Hanti-dhawr** (Node.js, Express, PostgreSQL, Prisma, React)
-- 🌱 Learning: Data Structures & Algorithms, Docker, system design
-- 🎯 Goal: Computer scientist, researcher, and tech entrepreneur in East Africa
-- 📍 Based in: Hargeisa, Somaliland
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%"/>
 
 ### 🛠️ Tech Stack
 
 <div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,git&theme=dark" />
 </div>
 
----
+<br/>
 
-### 📊 GitHub Stats (Live)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%"/><br>
 
-<div align="center">
+# 📊 GitHub Stats:
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+![](https://github-readme-stats.shion.dev/api?username=Yousuf-Hassan&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Yousuf-Hassan&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Yousuf-Hassan&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<!-- Snake contribution animation — generated by .github/workflows/snake.yml -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yousuf-Hassan/Yousuf-Hassan/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%"/>
 
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
-> Note: The snake animation needs a small GitHub Actions workflow to generate — let me know and I'll give you that file next.
-
----
-
-### 📈 Activity Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-*"Isku day, guuldarro, isku day mar kale, guuli."*
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
