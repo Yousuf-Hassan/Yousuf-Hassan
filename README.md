@@ -9,30 +9,23 @@
 </a>
 
 </div>
+## ◇ About
 
-<div align="left">
+I'm **Omar Tood**  an Machine Learning Engineer & AI Researcher with an **MSc in Artificial Intelligence**. I build intelligent systems around **Large Language Models**, **agentic AI**, and **transformer architectures**, with a focus on bringing modern NLP to **low-resource languages like Somali**.
 
-## 🧭 About Me
+<br/>
 
-☀️ Began the journey with software development through **Java, C++, Object-Oriented Programming & Data Structures** fundamentals
+## ◇ Tech Stack
 
-🎧 I build would like to be **full-stack web apps with the PERN stack** — PostgreSQL, Express.js, React, and Node.js
-
-🎓 I am currently pursuing a degree in **Computer Science** at the **University of Hargeisa**
-
-💬 Ask me about full-stack development, PostgreSQL & Prisma, or building ERP solutions for Somaliland SMEs
-
-✨ Always learning, building, and improving
-
-</div>
-
----
-
-## 🧰 Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,postgresql,mongodb,git,docker&theme=dark" />
-</div>
-
+![Python](https://img.shields.io/badge/Python-8B5CF6?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-8B5CF6?style=flat-square&logo=rust&logoColor=white)
+&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-06B6D4?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-06B6D4?style=flat-square&logo=huggingface&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-06B6D4?style=flat-square&logo=ollama&logoColor=white)
+&nbsp;
+![LangChain](https://img.shields.io/badge/LangChain-10B981?style=flat-square&logo=langchain&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-10B981?style=flat-square&logo=pinecone&logoColor=white)
 ---
 
 ## 📊 GitHub Stats
