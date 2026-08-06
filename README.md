@@ -25,12 +25,13 @@ I'm a Computer Science student at the **University of Hargeisa**, Faculty of Eng
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%"/>
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,docker,react,vite,tailwind,javascript,java,cpp,linux,git,github"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,git&theme=dark" />
+</div>
 
+<br/>
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%"/><br>
