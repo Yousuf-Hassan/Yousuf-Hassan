@@ -20,7 +20,7 @@ ______
 
 <br>
 
-<h3 align="center">📌 Projects</h3>
+<h3 align="center">## 📊 GitHub Analytics
 
 
 
