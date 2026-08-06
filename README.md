@@ -63,20 +63,6 @@
 
 </div>
 
----
-
-🌱 **Currently Learning**
-
-<div align="left">
-
-* 🐘 PostgreSQL query optimization & Prisma advanced patterns
-* 🐳 Docker & containerized deployment for full-stack apps
-* 📊 Data Structures & Algorithms
-* 🌐 System design for full-stack applications
-
-</div>
-
----
 
 <div align="center">
 
