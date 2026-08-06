@@ -11,7 +11,7 @@ I build full-stack web apps with the PERN stack — clean code, clear structure,
 </p>
 
 <br>
-
+______
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
