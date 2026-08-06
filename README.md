@@ -9,7 +9,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%"/> -->
 
 ## 🧭 About Me
 
@@ -21,7 +21,7 @@ I'm a Computer Science student at the **University of Hargeisa**, Faculty of Eng
 - 🌍 Long-term goal: computer scientist, researcher, and tech entrepreneur in East Africa
 - 💬 Fluent in Af-Soomaali and English
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%"/> -->
 
 ### 🛠️ Tech Stack
 
@@ -31,7 +31,7 @@ I'm a Computer Science student at the **University of Hargeisa**, Faculty of Eng
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%"/><br>
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%"/><br> -->
 
 # 📊 GitHub Stats:
 
@@ -44,6 +44,6 @@ I'm a Computer Science student at the **University of Hargeisa**, Faculty of Eng
   <img src="https://raw.githubusercontent.com/Yousuf-Hassan/Yousuf-Hassan/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%"/> -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
