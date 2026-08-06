@@ -14,8 +14,7 @@
 
 ## ◇ About
 
-I'm **Yousuf Hassan Osman** — call me **Haji** — a **PERN Full Stack Developer** and Computer Science student at the **University of Hargeisa**. I build full-stack web applications with **PostgreSQL, Express.js, React, and Node.js**, with a focus on bringing modern SaaS tools to **Somaliland's SMEs**. Right now I'm building **Hanti-dhawr**, a Somali-language SaaS ERP platform, while working toward becoming a computer scientist, researcher, and tech entrepreneur in East Africa.
-
+I'm a Computer Science student at the University of Hargeisa, using the PERN Full Stack — PostgreSQL, Express.js, React, and Node.js. I'm learning full-stack web and app development with a focus on bringing modern SaaS tools to life, while working toward becoming a computer scientist, researcher, and tech entrepreneur in East Africa.
 </div>
 
 ---
