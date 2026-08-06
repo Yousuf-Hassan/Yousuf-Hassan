@@ -35,13 +35,12 @@ I'm a Computer Science student at the **University of Hargeisa**, Faculty of Eng
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%"/><br>
 
-## 📊 GitHub Analytics
-
+<p align="center">
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Yousuf-Hassan&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Yousuf-Hassan&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Yousuf-Hassan&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+</p>
 <!-- Snake contribution animation — needs a one-time GitHub Actions setup, see note below -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
