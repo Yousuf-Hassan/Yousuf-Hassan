@@ -10,25 +10,23 @@
 
 </div>
 
-<div align="Center">
+<br>
+
+<div align="center">
 
 ## ◇ About
 
 I'm a Computer Science student at the University of Hargeisa, using the PERN Full Stack — PostgreSQL, Express.js, React, and Node.js. I'm learning full-stack web and app development with a focus on bringing modern SaaS tools to life, while working toward becoming a computer scientist, researcher, and tech entrepreneur in East Africa.
+
 </div>
 
 ---
+
 <div align="center">
-  
+
 ## ◇ Tech Stack
 
-</div>
-
-
-<br><br>
-
-<div align="center">
-
+<br>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -42,22 +40,18 @@ I'm a Computer Science student at the University of Hargeisa, using the PERN Ful
 </div>
 
 ---
+
 <div align="center">
-  
+
 ## ◇ GitHub Stats
 
-</div>
-
-
-
-<div align="center">
+<br>
 
 <img height="165" src="https://github-readme-stats.shion.dev/api?username=Yousuf-Hassan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://streak-stats.demolab.com/?user=Yousuf-Hassan&theme=tokyonight&hide_border=true" />
 <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Yousuf-Hassan&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-
 
 ---
 
